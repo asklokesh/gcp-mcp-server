@@ -1,5 +1,7 @@
 # GCP MCP Server
 
+<!-- mcp-name: io.github.asklokesh/gcp-mcp-server -->
+
 <div align="center">
 
 # Gcp Mcp Server
