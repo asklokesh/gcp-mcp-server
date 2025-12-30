@@ -41,3 +41,5 @@ dev = [
 
 [project.scripts]
 gcp-mcp = "gcp_mcp.server:main"
+[tool.hatch.build.targets.wheel]
+packages = ["src/gcp_mcp"]
